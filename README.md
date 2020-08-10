@@ -1,6 +1,6 @@
 ### Greetings wayward Internet explorer
 
-I'm a Principal Security Research Engineer with Elastic, tracking intrusion sets and slinging SIEM detection rules.
+I'm a Principal Security Research Engineer with Elastic - tracking intrusion sets and slinging SIEM detection rules.
 
 ## Projects
 * Response Operations Collection Kit (ROCK) is an open source network security monitoring platform - https://rocknsm.io

@@ -1,6 +1,6 @@
 ## Greetings wayward Internet explorer
 
-I'm the Threat Research Team Lead at Elastic - tracking intrusion sets and slinging detection rules.
+I'm the Technical Lead at Elastic Securirty Labs - tracking intrusion sets and slinging detection rules.
 
 ## Personal projects
 * The Elastic Container Project - https://github.com/peasead/elastic-container

@@ -18,17 +18,8 @@ I'm the Technical Lead at Elastic Security Labs - tracking intrusion sets and sl
 <a href="https://github.com/peasead">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peasead&theme=dark" />
 </a>
-<br/>
-<a href="https://twitter.com/andythevariable">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<br/>
-<a href="https://www.linkedin.com/in/andrewdpease/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <h2>Personal projects and publications</h2>
-
 <ul>
 <li><a href="https://www.amazon.com/Threat-Hunting-Elastic-Stack-challenges/dp/1801073783">Author of Threat Hunting with the Elastic Stack</a></li>
 <li><a href="https://www.elastic.co/security-labs/author/andrew-pease">Threat research publications w/Elastic Security Labs</a></li>

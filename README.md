@@ -20,7 +20,11 @@ I'm the Technical Lead at Elastic Security Labs - tracking intrusion sets and sl
 </a>
 <br/>
 <a href="https://twitter.com/andythevariable">
-  <img src="https://img.shields.io/twitter/follow/andythevariable?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/andrewdpease/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <h2>Personal projects and publications</h2>

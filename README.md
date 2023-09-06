@@ -1,11 +1,35 @@
-## Greetings wayward Internet explorer
+<!--
+Respectfully borrowed this theme from https://github.com/hasherezade
+--!>
 
-I'm the Technical Lead at Elastic Securirty Labs - tracking intrusion sets and slinging detection rules.
+<h2>Greetings wayward internet explorer</h2>
 
-## Personal projects and publications
-* [Threat Hunting with the Elastic Stack](https://www.amazon.com/Threat-Hunting-Elastic-Stack-challenges/dp/1801073783) author
-* [Threat research publications w/Elastic Security Labs](https://www.elastic.co/blog/author/andrew-pease)
-* [The Elastic Container Project](https://github.com/peasead/elastic-container)
-* [Response Operations Collection Kit (ROCK)](https://rocknsm.io)
-* [Threat Hunting using network data and RockNSM](https://huntops.blue) (archived)
-* [Cyber Analytics Platform and Examination System (CAPES)](https://capesstack.io) is a self-hosted IR platform (archived)
+I'm the Technical Lead at Elastic Security Labs - tracking intrusion sets and slinging detection rules. <br><br>
+
+<h2> Github stats</h2>
+<a href="https://github.com/peasead">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peasead&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+</a>
+
+<a href="https://github.com/peasead">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peasead&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
+</a>
+
+<a href="https://github.com/peasead">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peasead&theme=dark" />
+</a>
+<br/>
+<a href="https://twitter.com/andythevariable">
+  <img src="https://img.shields.io/twitter/follow/andythevariable?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
+</a>
+
+<h2>Personal projects and publications</h2>
+
+<ul>
+<li><a href="https://www.amazon.com/Threat-Hunting-Elastic-Stack-challenges/dp/1801073783">Author of Threat Hunting with the Elastic Stack</a></li>
+<li><a href="https://www.elastic.co/security-labs/author/andrew-pease">Threat research publications w/Elastic Security Labs</a></li>
+<li><a href="https://github.com/peasead/elastic-container">The Elastic Container Project</a></li>
+<li><a href="https://rocknsm.io">Response Operations Collection Kit (ROCK)</a></li>
+<li><a href="https://huntops.blue">Threat Hunting using network data and RockNSM (archived)</a></li>
+<li><a href="https://capesstack.io">Cyber Analytics Platform and Examination System (CAPES) (archived)</a></li>
+</ul>

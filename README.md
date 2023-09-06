@@ -1,5 +1,5 @@
 <!--
-Respectfully borrowed this theme from https://github.com/hasherezade
+Respectfully borrowed the Github stats "theme"(?) from https://github.com/hasherezade
 --!>
 
 <h2>Greetings wayward internet explorer</h2>

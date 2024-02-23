@@ -4,7 +4,7 @@ Respectfully borrowed the Github stats "theme"(?) from https://github.com/hasher
 
 <h2>Greetings wayward internet explorer</h2>
 
-I'm the Technology Lead at Elastic Security Labs - tracking intrusion sets and slinging detection rules. <br><br>
+I'm the Technical Lead at Elastic Security Labs - tracking intrusion sets and slinging detection rules. <br><br>
 
 <h2> Github stats</h2>
 <a href="https://github.com/peasead">

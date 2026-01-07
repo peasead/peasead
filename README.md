@@ -6,19 +6,6 @@ Respectfully borrowed the Github stats "theme"(?) from https://github.com/hasher
 
 I'm the Technical Lead at Elastic Security Labs - tracking intrusion sets and slinging detection rules. <br><br>
 
-<h2> Github stats</h2>
-<a href="https://github.com/peasead">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peasead&show_icons=false&line_height=33&count_private=true&theme=dark" alt="peasead's GitHub Stats" />
-</a>
-
-<a href="https://github.com/peasead">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peasead&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
-</a>
-
-<a href="https://github.com/peasead">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peasead&theme=dark" />
-</a>
-
 <h2>Personal projects and publications</h2>
 <ul>
 <li><a href="https://www.amazon.com/Threat-Hunting-Elastic-Stack-challenges/dp/1801073783">Author of Threat Hunting with the Elastic Stack</a></li>

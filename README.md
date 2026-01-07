@@ -8,7 +8,7 @@ I'm the Technical Lead at Elastic Security Labs - tracking intrusion sets and sl
 
 <h2> Github stats</h2>
 <a href="https://github.com/peasead">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peasead&show_icons=true&line_height=33&count_private=true&theme=dark" alt="hasherezade's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=peasead&show_icons=true&line_height=33&count_private=true&theme=dark" alt="peasead's GitHub Stats" />
 </a>
 
 <a href="https://github.com/peasead">
